@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabActivity</string>
+
+    <string-array name="page_title">
+        <item>Chat</item>
+        <item>Status</item>
+        <item>Calls</item>
+    </string-array>
+</resources>
